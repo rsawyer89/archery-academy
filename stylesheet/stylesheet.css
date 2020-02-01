@@ -76,6 +76,11 @@ aside {
   margin-top: 4rem;
 }
 
+.video {
+  padding-left: 56rem;
+  padding-bottom: 2rem;
+}
+
 body {
   background-color: #444444;
 }
@@ -99,8 +104,7 @@ body {
 
 .founder-text {
   width: 50%;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin-top: 4rem;
   text-align: justify;
 }
 
@@ -127,6 +131,7 @@ body {
   position: absolute;
   padding-top: 10rem;
   padding-left: 1rem;
+  padding-right: 62rem;
 }
 
 .footer-copyright {
