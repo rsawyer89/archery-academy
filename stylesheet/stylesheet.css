@@ -76,11 +76,6 @@ aside {
   margin-top: 4rem;
 }
 
-.video {
-  padding-left: 56rem;
-  padding-bottom: 2rem;
-}
-
 body {
   background-color: #444444;
 }
@@ -203,4 +198,9 @@ body {
   text-align: left;
   font-size: 17px;
   font-family: 'Arial', sans-serif;
+}
+
+.video {
+  padding-left: 58rem;
+  padding-bottom: 3rem;
 }
